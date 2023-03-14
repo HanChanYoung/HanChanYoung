@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <div align="center">
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
-	<img src="https://img.shields.io/badge/Apache Kafka-231F20F?style=flat&logo=Apache Kafka&logoColor=white" />
+	<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=Apache Kafka&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	
 </div>
