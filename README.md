@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 <h3 align="center"> Cloud </h3>
 <div align="center">
-	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />	
+	<img src="https://img.shields.io/badge/Docker-FFCD00?style=flat&logo=Docker&logoColor=white" />	
 </div>
 
 <h3 align="center"> Open Source </h3>
 <div align="center">
-	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />	
+	<img src="https://img.shields.io/badge/Kakao i Cloud-2496ED?style=flat&logo=Kakao&logoColor=white" />	
 </div>
